@@ -76,24 +76,25 @@ We found that online triplet mining significantly speeds up training by mining t
 To reproduce the results, follow the installation steps:
 1. Install open-metric-learning
 ```
-pip install -U open-metric-learning
+pip install open3d
+pip install learning3d
 ```
 2. Install pip requirements
 ```
 pip install -r requirements.txt
 ```
 
-After the installation, you can start by running the training scripts provided.
+After the installation, you can start by running the training scripts provided and evaluate on your own data.
 
 
 ## Result
-Our final approach using deep metric learning and online hard triplet mining resulted in an impressive MRR@5 score of 0.957, significantly outperforming our initial methods and achieving high retrieval accuracy for Sino-nom characters.
+Our final approach using multi-stream model aresulted in an MRR@5 score of 0.0867.
 
 ## Contributors
 - Nguyen Khoa Dang - 21021478
 
 ## Report
 
-Link to pdf: [link]([https://github.com/lemin194/SinoNomCharacterRetrieval/blob/main/Sino_Nom_Character_Retrieval_Final_Report.pdf](https://github.com/Dan-the-dunk/3D-Object-Retrieval/blob/main/full_report.pdf))
+Link to pdf: [link](https://github.com/Dan-the-dunk/3D-Object-Retrieval/blob/main/full_report.pdf)
 
 Link to the overleaf project: [link](https://www.overleaf.com/read/cdvwmpwcwzps#b30c51).
