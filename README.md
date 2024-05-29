@@ -19,7 +19,7 @@ This repo contains the code for an image retrieval pipeline designed to retrieve
 ## Goal
 The goal of this project is to develop an accurate image retrieval system specifically tailored for Sino-nom characters. Sino-nom characters are a unique aspect of East Asian cultures, blending Chinese characters (Sino) with Vietnamese Nom script (nom). Retrieving similar characters accurately is crucial for various applications, including historical document analysis, cultural preservation, and language research. 
 
-Although many local feature matching algorithms like SIFT, SURF, or ORB exist, these are designed to achieve speed and efficiency in the retrieval process. We decided to tackle this problem with a deep learning approach, which is expected to outperform traditional methods.
+Although many local feature matching algorithms like SIFT, SURF, or ORB exist, these are designed to achieve speed and efficiency in the retrieval process. I decided to tackle this problem with a deep learning approach, which is expected to outperform traditional methods.
 
 **This repo implements:**
 - Point Cloud sampling from 3D mesh.
@@ -62,13 +62,13 @@ After the installation, you can start by running the training scripts provided a
 
 
 ## Result
-Our final approach using multi-stream model aresulted in an MRR@5 score of 0.0867.
+My final approach using multi-stream model aresulted in an MRR@5 score of 0.0867.
 
 ## Contributors
 - Nguyen Khoa Dang - 21021478
 
 ## Report
 
-Link to pdf: [link](https://github.com/Dan-the-dunk/3D-Object-Retrieval/blob/main/full_report.pdf)
+Link to the [pdf:](https://github.com/Dan-the-dunk/3D-Object-Retrieval/blob/main/full_report.pdf)
 
-Link to the overleaf project: [link](https://www.overleaf.com/read/cdvwmpwcwzps#b30c51).
+Link to the [overleaf project:](https://www.overleaf.com/read/cdvwmpwcwzps#b30c51).
