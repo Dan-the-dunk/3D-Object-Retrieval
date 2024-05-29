@@ -48,7 +48,7 @@ I decided to tackle this problem with a deep learning approach, which is expecte
 
 ## Installation
 To reproduce the results, follow the installation steps:
-1. Install open-metric-learning
+1. Install open3d and learning3d
 ```
 pip install open3d
 pip install learning3d
