@@ -17,7 +17,7 @@ This repo contains the code for an image retrieval pipeline designed to retrieve
 - [Report](#report)
 
 ## Goal
-The goal of this project is to develop an accurate image retrieval system specifically tailored for Sino-nom characters. Sino-nom characters are a unique aspect of East Asian cultures, blending Chinese characters (Sino) with Vietnamese Nom script (nom). Retrieving similar characters accurately is crucial for various applications, including historical document analysis, cultural preservation, and language research. 
+This project tackles the challenge of accurately retrieving 3D objects using Sino-nom characters as image input. Sino-nom characters, a unique feature of East Asian cultures, combine Chinese characters and Vietnamese Nom script. Accurate retrieval of these characters is essential for various applications such as historical document analysis, cultural heritage preservation, and language research.
 
 I decided to tackle this problem with a deep learning approach, which is expected to outperform traditional methods (SIFT and SURF).
 
